@@ -1,0 +1,15 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+    font: bolder;
+    text-align: center;
+    color: blueviolet;
+    background-color: aliceblue;
+    border: 10px;
+    border-radius: 10%;
+    border-color: violet;
+    border-style: ridge;
+    border-width: 55%;
+}
+#episodes-area{
+    color: black;
+}
